@@ -51,7 +51,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'ai_turing_probe.urls'
+ROOT_URLCONF = 'clientes_crud_app.urls'
 
 TEMPLATES = [
     {
